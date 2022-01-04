@@ -1,0 +1,25 @@
+{
+  "name": "viewbim360",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TD-PRS/viewbim360.git"
+  },
+  "author": "prs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TD-PRS/viewbim360/issues"
+  },
+  "homepage": "https://github.com/TD-PRS/viewbim360#readme",
+  "dependencies": {
+    "cookie-session": "^2.0.0",
+    "express": "^4.17.2",
+    "forge-apis": "^0.8.6"
+  }
+}
+
